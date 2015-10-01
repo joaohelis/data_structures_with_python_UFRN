@@ -1,4 +1,4 @@
-# data_strucutres_with_python_ufrn
+# data_structures_with_python_ufrn
 Data structures developed on software engineering masters megree - UFRN
 
 student - João Helis Junior de Azevedo Bernardo
